@@ -2,7 +2,7 @@ Passo a passo configurações básicas
 
 1 - yarn init -y
 2 - Dependencias:
-  - express, sequelize, pg, pg-hstore
+  - express, sequelize, pg, pg-hstore, dotenv
   - nodemon, sucrase, eslint, prettier eslint-config-prettier
   eslint-plugin-prettier babel-eslint, sequelize-cli -D
 
