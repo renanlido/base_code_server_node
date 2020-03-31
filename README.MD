@@ -1,3 +1,5 @@
+Passo a passo configurações básicas
+
 1 - yarn init -y
 2 - Dependencias:
   - express, sequelize, pg, pg-hstore
